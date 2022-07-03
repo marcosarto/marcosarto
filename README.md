@@ -1,4 +1,4 @@
 ### Hello there 👋
 - 🎓 MSc degree in software engineering
 - ⛏️ I like data engineering
-- 🖥️ Currently : intership @eng.it
+- 🖥️ Currently : intership @Amazon
